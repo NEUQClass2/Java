@@ -29,6 +29,7 @@ class Main {
 hhh去年王和兴的作业题，直接把输入以16进制输出就好了
 ## 知识点
 Integer类提供的进制转换方法
+
 |方法|参数解释|返回值|
 |-|-|-|
 |Integer.toBinaryString(n);|n是int或Integer数|把n转为2进制的字符串|
